@@ -1,2 +1,2 @@
-# CGL_GUI
+# GL_GUI
 C++ OpenGL GUI library
